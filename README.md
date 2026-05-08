@@ -1,2 +1,2 @@
-# projeto.pr-tico-IA
+# projeto.prático-IA
 PROJETO PRÁTICO IA
